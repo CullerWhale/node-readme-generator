@@ -100,9 +100,6 @@ inquirer
 
 
 // TODO: Create a function to write README file
-// const generatePage = (userName, projectTitle) => `Name: ${userName}, Title: ${projectTitle} `;
-// console.log(generatePage('Jane', 'janehub'));
-
 const generatePage = (answers) => {
         
     fs.writeFile('README.md',generateMarkdown(answers) , (err) => {
@@ -113,31 +110,6 @@ const generatePage = (answers) => {
         console.log('wrote to file successfully')
     })
   };
-
-// function writeToFile(fileName, data) {
-    // function writeToFile(answers) {
-       
-    //         return `
-    //         <!DOCTYPE html> 
-    //         <html lang="en"> 
-    //         <head>
-    //           <meta charset="UTF-8">
-    //           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    //           <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    //           <title>Portfolio Demo</title>
-    //         </head>
-          
-    //         <body>
-    //           <h1>${userName}</h1>
-    //           <h2><a href="https://github.com/${projectTitle}">Github</a></h2>
-    //         </body>
-    //         </html>
-    //         `;
-    // };
-
-
-//     // `Name: ${userName}, Title: ${projectTitle} `
-// }
 
 // TODO: Create a function to initialize app
 // function init() {}

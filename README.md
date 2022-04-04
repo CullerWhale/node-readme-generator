@@ -1,8 +1,8 @@
 
-  # asdf
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # README Generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  asdf
+  A fun node based readme generator
   
   ## Table of Contents
   - [Installation](#installation)
@@ -13,24 +13,28 @@
   - [Questions](#questions)
   
   ## Installation 
-  asdf
+  Initialize with node index.js
   
   
   ## Usage
-  asdf
+  Because its fun
   
   ## License
-  This project is covered under the Apache 2.0 License
-  https://www.apache.org/licenses/LICENSE-2.0
+  This project is covered under the MIT License
+  https://opensource.org/licenses/MIT
   
-  ## Contributing
-  asdf
+  ## Contribution
+  Standard guidelines
   The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard that we follow. 
   
   ## Tests
-  asdf
+  Test it with node index.js
   
   ## Questions
-  Email: asdf
+  Email: jcullenharris@gmail.com
   
-  Github: https://github.com/asdf 
+  Github: https://github.com/CullerWhale 
+
+  Video link: 
+  https://drive.google.com/file/d/10d8XjOrEpac9I-v9fWgQu8qPQ9lsqN2m/view
+  

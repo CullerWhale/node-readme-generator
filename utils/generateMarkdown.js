@@ -90,7 +90,7 @@ function generateMarkdown(answers) {
   ${licenseText}
   ${licenseLink}
   
-  ## Contributing
+  ## Contribution
   ${answers.contribution}
   The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard that we follow. 
   
