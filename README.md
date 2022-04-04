@@ -17,23 +17,22 @@
   
   
   ## Usage
-  Because its fun
+  Use this node based application to efficiently create a README file for your project. 
   
   ## License
   This project is covered under the MIT License
   https://opensource.org/licenses/MIT
   
   ## Contribution
-  Standard guidelines
+  This repository follows standard guidelines for contribution:
   The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard that we follow. 
   
   ## Tests
-  Test it with node index.js
+  Test that this application works by initializing the file with node index.js
   
   ## Questions
-  Email: jcullenharris@gmail.com
-  
   Github: https://github.com/CullerWhale 
+  Email: jcullenharris@gmail.com 
 
   Video link: 
   https://drive.google.com/file/d/10d8XjOrEpac9I-v9fWgQu8qPQ9lsqN2m/view
